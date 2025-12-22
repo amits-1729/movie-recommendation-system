@@ -16,3 +16,12 @@ The dataset used in this project is available on [Kaggle](https://www.kaggle.com
 To use it:
 1. Download the dataset from the above link.
 2. Place it inside the `data/` folder as `movies.csv`.
+
+
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Recommendations
+![Recommendations](screenshots/recommendations.png)
